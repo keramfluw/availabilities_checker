@@ -1,0 +1,2 @@
+# availabilities_checker
+Verfügbarkeiten_GGA_annual
